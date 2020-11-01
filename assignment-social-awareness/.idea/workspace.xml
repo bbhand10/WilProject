@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="822c7c27-395c-45cb-8ebb-ff9a2f3feadc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/blog.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/89793.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/banner - Copy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/banner - Copy1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/banner.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/banner1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/banner_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/banner_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/contact banner.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/old1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/post2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/post3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/post3_old.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pro3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/login.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_detail.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/profile.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/register.php" beforeDir="false" afterPath="$PROJECT_DIR$/register.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search_result.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hczaZEFcnNCAiNCzeTpCk84Zgg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../assignment-hammer" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="822c7c27-395c-45cb-8ebb-ff9a2f3feadc" name="Default Changelist" comment="" />
+      <created>1600325232075</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600325232075</updated>
+      <workItem from="1600325233651" duration="1757000" />
+      <workItem from="1600328952040" duration="13373000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1600342112557">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1600342112557" />
+    <state x="478" y="145" width="579" height="592" key="find.popup" timestamp="1600342313617">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="478" y="145" width="579" height="592" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1600342313617" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1600345286619">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1600345286619" />
+  </component>
+</project>
